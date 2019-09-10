@@ -1,2 +1,2 @@
 # hello_world
-test another example
+print ('shushu')
